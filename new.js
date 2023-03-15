@@ -9,3 +9,4 @@ function calculateTaxes(income) {
         return income * 0.15;
     }
 }
+console.log(calculateTaxes(500))
